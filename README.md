@@ -1,16 +1,27 @@
-## Hi there 👋
+### Hi there, I'm Surya 👋
 
-<!--
-**SuriyaSharath01/SuriyaSharath01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full-Stack Developer & AI Automation Engineer** based in Preston, UK, combining a strong foundation in data systems, Python, and SQL with an MBA in business operations. I specialize in building intelligent, agentic workflows and full-stack web applications that solve real-world operational challenges.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project: iSpark (sparkcare.live)
+An automated healthcare workflow and AI integration platform designed for modern care environments.
+* **Frontend:** React, TypeScript, Tailwind CSS, Vercel
+* **Backend & Automation:** n8n agentic workflows, Python microservices, OpenRouter APIs
+* **Database & Memory:** Supabase PostgreSQL with `pgvector` for Retrieval-Augmented Generation (RAG) and Jina embeddings
+* **Security & Infrastructure:** Cloudflare Zero Trust Tunnels & secure DNS routing
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Languages & Core:** Python, TypeScript, JavaScript, SQL
+* **AI & Automation:** n8n, LangChain, Google AI Studio, Generative AI Prompt Engineering, Vector RAG Systems
+* **Data & Tools:** Supabase, PostgreSQL, Power BI, Excel, Git, VS Code, Docker
+* **Cloud & DevOps:** Cloudflare, Vercel, DigitalOcean, Azure (Foundations)
+
+---
+
+### 📈 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuriyaSharath01&show_icons=true&theme=radical&hide_border=true" />
+</p>
