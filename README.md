@@ -1,6 +1,6 @@
 ### Hi there, I'm Surya 👋
 
-I am a **Full-Stack Developer & AI Automation Engineer** based in Preston, UK, combining a strong foundation in data systems, Python, and SQL with an MBA in business operations. I specialize in building intelligent, agentic workflows and full-stack web applications that solve real-world operational challenges.
+I am a **Full-Stack Developer & AI Automation Engineer** based in Preston, UK, combining a strong foundation in data systems, Python, and SQL with an MBA in business operations. I specialise in building intelligent, agentic workflows and full-stack web applications that solve real-world operational challenges.
 
 ---
 
